@@ -10,6 +10,11 @@ The information obtained is as follows;
  - Location of Ip
  - Platform
  - Browser
+ 
+ You can login to system with;
+
+ - username : can
+ - password : 123
 
 ### The packages used are as follows
 
