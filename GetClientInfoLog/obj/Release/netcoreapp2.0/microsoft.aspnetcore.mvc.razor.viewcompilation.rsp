@@ -1,0 +1,6 @@
+C:\Users\ParkNet\Desktop\GetClientInfoLog\GetClientInfoLog
+--output-path=obj\Release\netcoreapp2.0\
+--application-name=GetClientInfoLog
+--content-root=C:\Users\ParkNet\Desktop\GetClientInfoLog\GetClientInfoLog
+--file=C:\Users\ParkNet\Desktop\GetClientInfoLog\GetClientInfoLog\Views\Account\Login.cshtml
+--file=C:\Users\ParkNet\Desktop\GetClientInfoLog\GetClientInfoLog\Views\Home\Index.cshtml

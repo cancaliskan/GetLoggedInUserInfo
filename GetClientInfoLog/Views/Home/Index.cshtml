@@ -1,0 +1,30 @@
+﻿@model GetClientInfoLog.Models.ClientLogInfo
+@{
+    Layout = null;
+}
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+    <h1>Welcome</h1>
+
+    Ip : @Model.Ip
+    <br />
+    Location : @Model.IpLocation
+    <br />
+    Platform : @Model.Platform
+    <br />
+    User Agent : @Model.UserAgent
+    <br />
+    Browser : @Model.Browser
+
+    <form action="/Account/Logout" method="post">
+        <div>
+            <input type="submit" name="name" value="Logout" />
+        </div>
+    </form>
+</body>
+</html>

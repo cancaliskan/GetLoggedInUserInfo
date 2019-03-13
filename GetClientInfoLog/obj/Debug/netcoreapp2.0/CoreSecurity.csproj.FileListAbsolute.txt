@@ -1,0 +1,11 @@
+C:\Users\ParkNet\Desktop\CoreCookieAuth-master\CoreSecurity\bin\Debug\netcoreapp2.0\CoreSecurity.deps.json
+C:\Users\ParkNet\Desktop\CoreCookieAuth-master\CoreSecurity\bin\Debug\netcoreapp2.0\CoreSecurity.runtimeconfig.json
+C:\Users\ParkNet\Desktop\CoreCookieAuth-master\CoreSecurity\bin\Debug\netcoreapp2.0\CoreSecurity.runtimeconfig.dev.json
+C:\Users\ParkNet\Desktop\CoreCookieAuth-master\CoreSecurity\bin\Debug\netcoreapp2.0\CoreSecurity.dll
+C:\Users\ParkNet\Desktop\CoreCookieAuth-master\CoreSecurity\bin\Debug\netcoreapp2.0\CoreSecurity.pdb
+C:\Users\ParkNet\Desktop\CoreCookieAuth-master\CoreSecurity\obj\Debug\netcoreapp2.0\CoreSecurity.csprojAssemblyReference.cache
+C:\Users\ParkNet\Desktop\CoreCookieAuth-master\CoreSecurity\obj\Debug\netcoreapp2.0\CoreSecurity.csproj.CoreCompileInputs.cache
+C:\Users\ParkNet\Desktop\CoreCookieAuth-master\CoreSecurity\obj\Debug\netcoreapp2.0\CoreSecurity.AssemblyInfoInputs.cache
+C:\Users\ParkNet\Desktop\CoreCookieAuth-master\CoreSecurity\obj\Debug\netcoreapp2.0\CoreSecurity.AssemblyInfo.cs
+C:\Users\ParkNet\Desktop\CoreCookieAuth-master\CoreSecurity\obj\Debug\netcoreapp2.0\CoreSecurity.dll
+C:\Users\ParkNet\Desktop\CoreCookieAuth-master\CoreSecurity\obj\Debug\netcoreapp2.0\CoreSecurity.pdb

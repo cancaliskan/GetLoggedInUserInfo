@@ -1,0 +1,11 @@
+C:\Users\ParkNet\Desktop\GetClientInfoLog\GetClientInfoLog\bin\Release\netcoreapp2.0\GetClientInfoLog.deps.json
+C:\Users\ParkNet\Desktop\GetClientInfoLog\GetClientInfoLog\bin\Release\netcoreapp2.0\GetClientInfoLog.runtimeconfig.json
+C:\Users\ParkNet\Desktop\GetClientInfoLog\GetClientInfoLog\bin\Release\netcoreapp2.0\GetClientInfoLog.runtimeconfig.dev.json
+C:\Users\ParkNet\Desktop\GetClientInfoLog\GetClientInfoLog\bin\Release\netcoreapp2.0\GetClientInfoLog.dll
+C:\Users\ParkNet\Desktop\GetClientInfoLog\GetClientInfoLog\bin\Release\netcoreapp2.0\GetClientInfoLog.pdb
+C:\Users\ParkNet\Desktop\GetClientInfoLog\GetClientInfoLog\obj\Release\netcoreapp2.0\GetClientInfoLog.csproj.CoreCompileInputs.cache
+C:\Users\ParkNet\Desktop\GetClientInfoLog\GetClientInfoLog\obj\Release\netcoreapp2.0\GetClientInfoLog.AssemblyInfoInputs.cache
+C:\Users\ParkNet\Desktop\GetClientInfoLog\GetClientInfoLog\obj\Release\netcoreapp2.0\GetClientInfoLog.AssemblyInfo.cs
+C:\Users\ParkNet\Desktop\GetClientInfoLog\GetClientInfoLog\obj\Release\netcoreapp2.0\GetClientInfoLog.dll
+C:\Users\ParkNet\Desktop\GetClientInfoLog\GetClientInfoLog\obj\Release\netcoreapp2.0\GetClientInfoLog.pdb
+C:\Users\ParkNet\Desktop\GetClientInfoLog\GetClientInfoLog\obj\Release\netcoreapp2.0\GetClientInfoLog.csprojAssemblyReference.cache
